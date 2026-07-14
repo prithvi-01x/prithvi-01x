@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Prithvi
 💻 **BTech CSE** — IoT, Cybersecurity & Blockchain
 🛡️ Cybersecurity • AI/ML • Security Research
-⚡ Kali Linux user
 🚀 Building things. Breaking things (ethically). Learning fast.
 
 <p align="center">
