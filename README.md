@@ -100,7 +100,3 @@ whoami
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=38&center=true&vCenter=true&width=900&lines=>_+prithvi-01x"/>
 </p>
-
-<p align="center">
-<img src="https://github.com/prithvi-01x/prithvi-01x/blob/output/cyber-snake-dark.svg">
-</p>
