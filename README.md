@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Prithvi
-💻 **BTech CSE** — IoT, Cybersecurity & Blockchain
+💻 **BTech CSE** — Cybersecurity student
 🛡️ Cybersecurity • AI/ML • Security Research
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Profile+Views&color=00ff00&style=for-the-badge" />
