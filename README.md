@@ -21,11 +21,9 @@
 
 ---
 
-## 🧠 Currently Learning
-* Web Security (PortSwigger Labs)
-* Bug Bounty Hunting
-* AI + LLM Fine-Tuning
-* DSA in C++
+## 🧠 Currently
+**Doing:** Bug Bounty Hunting (HackerOne, Intigriti)
+**Learning:** Web Security (PortSwigger Labs) · AI + LLM Fine-Tuning · DSA in C++
 
 ---
 
