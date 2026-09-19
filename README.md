@@ -15,22 +15,31 @@
 
 ### 🛡️ About Me
 
-I build security-focused software, autonomous AI agent harnesses, and forensic tooling while actively researching attack surfaces across red and blue team domains. My work bridges low-level systems programming, real-time intrusion analysis, and automated threat intelligence pipelines.
+I build security-focused software, autonomous AI agent harnesses, and forensic tooling while actively researching attack surfaces across red and blue team domains. My work bridges low-level systems programming, real-time intrusion analysis, vulnerability scanning orchestration, and automated threat intelligence pipelines.
 
 - 🔍 **Defensive & Threat Intel:** Digital Forensics & Incident Response (DFIR), log analysis, network intrusion detection, and automated threat intelligence pipelines.
 - 🎯 **Offensive Security & Research:** Web vulnerability research (IDOR, auth logic, business logic bypasses) via HackerOne/Intigriti; hands-on labs on Hack The Box, TryHackMe, and PortSwigger.
-- 🤖 **AI Agent Architectures:** Building agentic harnesses, tool-execution sandboxes, and autonomous security tooling.
+- 🤖 **AI Agent Architectures:** Building agentic harnesses, tool-execution sandboxes, RAG systems, and autonomous security tooling.
 - 🖥️ **Systems & Homelab:** Deep-diving into network traffic capture, virtualized isolated lab environments, Linux internals, and high-performance algorithms in C++.
 
 ---
 
-### 🚀 Featured Engineering & Security Tools
+### 🚀 Major Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Nullvex](https://github.com/prithvi-01x/nullvex)** | Autonomous Cyber Threat Intelligence platform & AI Threat Copilot designed for real-time indicator extraction and automated analysis. | `Python 3.12` `FastAPI` `Next.js 16` `TypeScript` `PostgreSQL` `Redis` |
-| **[NetWatch](https://github.com/prithvi-01x/Netwatch)** | Local network traffic analyzer and intrusion detection system (NIDS) featuring on-device LLM threat explanation and anomaly detection. | `Python` `FastAPI` `React` `PCAP / Scapy` `On-Device LLMs` |
-| **[Crypto-Tracer](https://github.com/prithvi-01x/crypto-tracer)** | Blockchain forensic investigation engine for tracing illicit cryptocurrency fund flows and attributing deposit addresses to custodial VASPs. | `FastAPI` `Python 3.12` `React 19` `TypeScript` `PostgreSQL` |
+| **[Nullvex](https://github.com/prithvi-01x/nullvex)** | Autonomous Cyber Threat Intelligence platform & AI Threat Copilot designed for real-time indicator extraction and automated threat scoring. | `Python 3.12` `FastAPI` `Next.js 16` `TypeScript` `PostgreSQL` `Redis` `Async DDD` |
+| **[XenoraSec](https://github.com/prithvi-01x/XenoraSec)** | Production-ready AI-powered vulnerability scanner orchestrating Nmap and Nuclei with AI risk scoring and a real-time interactive dashboard. | `FastAPI` `Python 3.10+` `React` `Vite` `TypeScript` `Nmap` `Nuclei` |
+| **[NetWatch](https://github.com/prithvi-01x/Netwatch)** | Local network traffic analyzer and intrusion detection system (NIDS) featuring on-device LLM threat explanation and live WebSocket streaming. | `Python` `FastAPI` `React` `Scapy` `Ollama (Local LLM)` `WebSockets` |
+
+---
+
+### 👥 Team Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Crypto-Tracer](https://github.com/prithvi-01x/crypto-tracer)** | Blockchain forensic investigation platform for tracing illicit cryptocurrency fund flows and attributing unhosted deposit addresses to custodial VASPs. | `FastAPI` `Python 3.12` `React 19` `TypeScript` `PostgreSQL` `TRON (TRC-20)` |
+| **[Argo-AI (FloatChat)](https://github.com/prithvi-01x/argoai)** | AI-powered conversational interface and geospatial RAG system for querying and visualizing complex NetCDF oceanographic datasets. | `Python` `Streamlit` `Google Gemini` `ChromaDB` `FastAPI` `xarray / netCDF4` |
 
 ---
 
@@ -53,7 +62,7 @@ I build security-focused software, autonomous AI agent harnesses, and forensic t
 
 ```
 Languages & Systems      : C++, C, Python, Bash, Rust (Exploring)
-Security & Analysis      : Burp Suite Pro, Wireshark, Nmap, Metasploit, GDB
+Security & Analysis      : Burp Suite Pro, Wireshark, Nmap, Nuclei, Metasploit, GDB
 Defensive / DFIR         : Traffic Analysis, IDS/IPS (Suricata/Snort/NetWatch), Memory Forensics
 Backend & Data           : FastAPI, Next.js, PostgreSQL, Redis, Docker
 AI & Agents              : Agent Harnesses, Function Calling, RAG Pipelines, Local LLMs (Ollama)

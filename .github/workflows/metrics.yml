@@ -17,9 +17,6 @@ jobs:
           template: classic
           base: header, activity, community, metadata
           config_timezone: Asia/Kolkata
-
-          # THEME
-          config_theme: matrix
           config_display: large
           config_padding: 0, 8
 
@@ -45,7 +42,11 @@ jobs:
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
-          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_habits_trim: yes
 
           # Repositories
           plugin_repositories: yes
+          plugin_repositories_featured: nullvex, XenoraSec, Netwatch, crypto-tracer
+          plugin_repositories_pinned: 3
