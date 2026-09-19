@@ -1,96 +1,83 @@
-# 👋 Hey, I'm Prithvi
-💻 **BTech CSE** — Cybersecurity student
-🛡️ Cybersecurity • AI/ML • Security Research
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Profile+Views&color=00ff00&style=for-the-badge" />
+# 👋 Hey, I'm Prithvi Raj
+
+<p align="left">
+  <strong>Security Engineer & Systems Builder</strong> • Threat Intelligence • DFIR • AI Agents & Harnesses • Red & Blue Teaming
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prithvi-0x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hackerone.com/gabimaruu-01x"><img src="https://img.shields.io/badge/HackerOne-202020?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  <a href="https://github.com/prithvi-01x"><img src="https://img.shields.io/badge/GitHub-prithvi--01x-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Visitors&color=00ff88&style=flat-square" alt="Visitors" />
 </p>
 
 ---
 
-## 🧑‍💻 GitHub Dashboard
-<p align="center">
-<img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg" width="100%">
-</p>
+### 🛡️ About Me
+
+I build security-focused software, autonomous AI agent harnesses, and forensic tooling while actively researching attack surfaces across red and blue team domains. My work bridges low-level systems programming, real-time intrusion analysis, and automated threat intelligence pipelines.
+
+- 🔍 **Defensive & Threat Intel:** Digital Forensics & Incident Response (DFIR), log analysis, network intrusion detection, and automated threat intelligence pipelines.
+- 🎯 **Offensive Security & Research:** Web vulnerability research (IDOR, auth logic, business logic bypasses) via HackerOne/Intigriti; hands-on labs on Hack The Box, TryHackMe, and PortSwigger.
+- 🤖 **AI Agent Architectures:** Building agentic harnesses, tool-execution sandboxes, and autonomous security tooling.
+- 🖥️ **Systems & Homelab:** Deep-diving into network traffic capture, virtualized isolated lab environments, Linux internals, and high-performance algorithms in C++.
 
 ---
 
-## 🧠 LeetCode Stats (real-time)
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/prithvi-01x?theme=dark&font=Fira+Code&ext=contest" />
-</p>
+### 🚀 Featured Engineering & Security Tools
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Nullvex](https://github.com/prithvi-01x/nullvex)** | Autonomous Cyber Threat Intelligence platform & AI Threat Copilot designed for real-time indicator extraction and automated analysis. | `Python 3.12` `FastAPI` `Next.js 16` `TypeScript` `PostgreSQL` `Redis` |
+| **[NetWatch](https://github.com/prithvi-01x/Netwatch)** | Local network traffic analyzer and intrusion detection system (NIDS) featuring on-device LLM threat explanation and anomaly detection. | `Python` `FastAPI` `React` `PCAP / Scapy` `On-Device LLMs` |
+| **[Crypto-Tracer](https://github.com/prithvi-01x/crypto-tracer)** | Blockchain forensic investigation engine for tracing illicit cryptocurrency fund flows and attributing deposit addresses to custodial VASPs. | `FastAPI` `Python 3.12` `React 19` `TypeScript` `PostgreSQL` |
 
 ---
 
-## 🧠 Currently
-**Doing:** Bug Bounty Hunting (HackerOne, Intigriti)
-**Learning:** Web Security (PortSwigger Labs) · DSA in C++
+### ⚔️ Offensive Security & Labs
+
+- **Bug Bounty:** HackerOne ([@gabimaruu-01x](https://hackerone.com/gabimaruu-01x)) & Intigriti — Focus on broken object level auth (BOLA/IDOR), authentication bypasses, and state-machine logic flaws.
+- **Hands-On CTFs & Labs:** Active practice on **Hack The Box** & **TryHackMe** targeting network enumeration, active directory, and privilege escalation pathways.
+- **Web App Research:** In-depth exploit chains on PortSwigger Web Security Academy.
 
 ---
 
-## 🛠 Tech Stack
-### 💻 Languages & Tools
-<p align="center">
+### 🏰 Defensive Operations & Homelab
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
-</p>
+- **DFIR & Threat Analysis:** Forensic disk & memory artifacts, log correlation, packet inspection, and triage workflows.
+- **Homelabbing:** Virtualized testing environments, network segmentation, proxying, and local self-hosted infrastructure for safe exploit simulation and detection validation.
 
 ---
 
-### 🛡️ Cybersecurity Toolkit
-<p align="center">
+### 🛠 Tech & Toolchain
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-</p>
-
-### 🤖 AI / ML
-<p align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-4CAF50?style=for-the-badge)
-
-</p>
-
----
-
-## 🛡️ Bug Bounty Research
-Testing web apps for:
-* IDOR
-* Auth bypass
-* Logic bugs
-
----
-
-## 📊 GitHub Activity
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=prithvi-01x&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Connect
-* LinkedIn → https://www.linkedin.com/in/prithvi-0x/
-* HackerOne → https://hackerone.com/gabimaruu-01x
-
----
-
-## 🧃 Terminal
-```bash
-whoami
-> prithvi-01x
+```
+Languages & Systems      : C++, C, Python, Bash, Rust (Exploring)
+Security & Analysis      : Burp Suite Pro, Wireshark, Nmap, Metasploit, GDB
+Defensive / DFIR         : Traffic Analysis, IDS/IPS (Suricata/Snort/NetWatch), Memory Forensics
+Backend & Data           : FastAPI, Next.js, PostgreSQL, Redis, Docker
+AI & Agents              : Agent Harnesses, Function Calling, RAG Pipelines, Local LLMs (Ollama)
+Fundamentals             : Data Structures & Algorithms in C++
 ```
 
+---
+
+### 📊 GitHub Activity & Metrics
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=38&center=true&vCenter=true&width=900&lines=>_+prithvi-01x"/>
+  <img src="https://github.com/prithvi-01x/prithvi-01x/blob/main/github-metrics.svg" width="100%" alt="GitHub Metrics" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prithvi-0x/">
+    <img src="https://img.shields.io/badge/LinkedIn-PRITHVI_RAJ-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://hackerone.com/gabimaruu-01x">
+    <img src="https://img.shields.io/badge/HackerOne-gabimaruu--01x-202020?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  </a>
 </p>
