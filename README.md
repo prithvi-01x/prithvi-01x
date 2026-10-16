@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://github.com/prithvi-01x"><img src="https://img.shields.io/badge/GitHub-prithvi--01x-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Visitors&color=00ff88&style=flat-square" alt="Visitors" />
+  <img src="https://views.igorkowalczyk.dev/api/badge/prithvi-01x?style=flat&color=00ff88&label=Visitors" alt="Visitors" />
 </p>
 
 ---
