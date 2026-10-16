@@ -6,8 +6,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/prithvi-0x/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
   <a href="https://hackerone.com/gabimaruu-01x"><img src="https://img.shields.io/badge/HackerOne-202020?style=flat-square&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/users/prithvi-raj.883d8fe5"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly" /></a>
+  &nbsp;
   <a href="https://github.com/prithvi-01x"><img src="https://img.shields.io/badge/GitHub-prithvi--01x-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=prithvi-01x&label=Visitors&color=00ff88&style=flat-square" alt="Visitors" />
 </p>
 
@@ -58,6 +63,24 @@ I build security-focused software, autonomous AI agent harnesses, and forensic t
 
 ---
 
+### 📜 Certifications & Accreditations
+
+<p align="left">
+  <a href="https://www.credly.com/badges/10017793-64fe-4b51-81b6-ad938614e5db/public_url" target="_blank">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="115" height="115" alt="Ethical Hacker - Cisco" title="Ethical Hacker - Cisco" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/02b80c05-eaf3-4e1a-8957-7e9fa119b7f7/public_url" target="_blank">
+    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="115" height="115" alt="Networking Basics - Cisco" title="Networking Basics - Cisco" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/0441c5d6-b3a1-4146-b1b9-f94ea2ee22f9/public_url" target="_blank">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="115" height="115" alt="Introduction to Cybersecurity - Cisco" title="Introduction to Cybersecurity - Cisco" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Tech & Toolchain
 
 ```
@@ -88,5 +111,9 @@ Fundamentals             : Data Structures & Algorithms in C++
   &nbsp;
   <a href="https://hackerone.com/gabimaruu-01x">
     <img src="https://img.shields.io/badge/HackerOne-gabimaruu--01x-202020?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  </a>
+  &nbsp;
+  <a href="https://www.credly.com/users/prithvi-raj.883d8fe5">
+    <img src="https://img.shields.io/badge/Credly-PRITHVI_RAJ-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
